@@ -6,21 +6,19 @@ This repository contains the assignments💻 of Web Technology provided by Savit
 
 <p align="justify">Before coding of the website, planning is important, students should visit different websites for the different client projects and note down the evaluation results for these websites, either good website or bad website in following format:<p>
 
-1. Sr. No.
-2. Website URL
-3. Purpose of website
-4. Things liked in the website
-5. Things disliked in the website
-6. Overall Evaluation
-
+  <ol align="justify">
+    <li>Sr. No.</li>
+    <li>Website URL</li>
+    <li>Purpose of website</li>
+    <li>Things liked in the website</li>
+    <li>Things disliked in the website</li>
+    <li>Overall Evaluation</li>
+  </ol>
+    
 **Assignment-2**
   
   Implement a web page index.htm for any client website using following:
   <ol align="justify">
-  <li>HTML syntax: heading tags, basic tags and attributes, frames, tables, images, lists, links for text and images, forms etc.</li>
-  <li>Use of Internal CSS, Inline CSS, External CSS</li>
-</ol>
-
-<p align="justify">Implement a web page index.htm for any client website using following:<p>
-<p align="justify">1. HTML syntax: heading tags, basic tags and attributes, frames, tables, images, lists, links for text and images, forms etc.<p>
-<p align="justify">2. Use of Internal CSS, Inline CSS, External CSS<p>
+    <li>HTML syntax: heading tags, basic tags and attributes, frames, tables, images, lists, links for text and images, forms etc.</li>
+    <li>Use of Internal CSS, Inline CSS, External CSS</li>
+  </ol>
