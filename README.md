@@ -14,6 +14,12 @@ This repository contains the assignments💻 of Web Technology provided by Savit
 6. Overall Evaluation
 
 **Assignment-2**
+  
+  Implement a web page index.htm for any client website using following:
+  <ol align="justify">
+  <li>HTML syntax: heading tags, basic tags and attributes, frames, tables, images, lists, links for text and images, forms etc.</li>
+  <li>Use of Internal CSS, Inline CSS, External CSS</li>
+</ol>
 
 <p align="justify">Implement a web page index.htm for any client website using following:<p>
 <p align="justify">1. HTML syntax: heading tags, basic tags and attributes, frames, tables, images, lists, links for text and images, forms etc.<p>
