@@ -22,3 +22,10 @@ This repository contains the assignments💻 of Web Technology provided by Savit
     <li>HTML syntax: heading tags, basic tags and attributes, frames, tables, images, lists, links for text and images, forms etc.</li>
     <li>Use of Internal CSS, Inline CSS, External CSS</li>
   </ol>
+
+**Assignment-3**
+
+Design the XML document to store the information of the employees of any business organization and demonstrate the use of:
+<li>DTD</li>
+<li>XML Schema</li>
+And display the content in (e.g., tabular format) by using CSS/XSL.
