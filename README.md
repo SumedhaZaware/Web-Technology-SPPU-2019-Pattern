@@ -30,9 +30,7 @@ Design the XML document to store the information of the employees of any busines
   <li>DTD</li>
   <li>XML Schema</li>
  </ol>
-And display the content in (e.g., tabular format) by using CSS/XSL.
-
-<br>
+<p align="jiustify">And display the content in (e.g., tabular format) by using CSS/XSL.</p>
 
 **Assignment-4**
 
