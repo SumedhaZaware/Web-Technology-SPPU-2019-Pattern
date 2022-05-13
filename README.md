@@ -31,3 +31,12 @@ Design the XML document to store the information of the employees of any busines
   <li>XML Schema</li>
  </ol>
 And display the content in (e.g., tabular format) by using CSS/XSL.
+
+**Assignment-4**
+
+Implement an application in Java Script using following:
+<ol align="justify">
+  <li>Design UI of application using HTML, CSS etc.</li>
+  <li>Include Java script validation</li>
+  <li>Use of prompt and alert window using Java Script</li>
+</ol>
