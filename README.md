@@ -40,3 +40,11 @@ Implement an application in Java Script using following:
   <li>Include Java script validation</li>
   <li>Use of prompt and alert window using Java Script</li>
 </ol>
+
+**Assignment-5**
+
+<p align="jiustify">Implement the sample program demonstrating the use of Servlet.</p>
+
+**Assignment-6**
+
+<p align="jiustify">Implement the program demonstrating the use of JSP.</p>
