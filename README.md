@@ -48,3 +48,19 @@ Implement an application in Java Script using following:
 **Assignment-6**
 
 <p align="jiustify">Implement the program demonstrating the use of JSP.</p>
+
+**Assignment-7**
+
+<p align="jiustify">Build a dynamic web application using PHP and MySQL.</p>
+
+**Assignment-8**
+
+<p align="jiustify">Design a login page with entries for name, mobile number email id and login button. Use struts and perform following validations</p>
+<ol>
+  <li>Validation for correct names</li>
+  <li>Validation for mobile numbers</li>
+  <li>Validation for email id</li>
+  <li>Validation if no entered any value</li>
+  <li>Re-display for wrongly entered values with message</li>
+  <li>Congratulations and welcome page upon successful entries</li>
+</ol>
