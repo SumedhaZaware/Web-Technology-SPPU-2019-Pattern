@@ -68,3 +68,7 @@ Implement an application in Java Script using following:
 **Assignment-9**
 
 <p align="jiustify">Design an application using Angular JS.</p>
+
+**Assignment-10**
+
+<p align="jiustify">Design and implement a business interface with necessary business logic for any web application using EJB.</p>
